@@ -1,7 +1,7 @@
 ## Turtlepool Website
 ***
 This website was created for [PSR CRYPTO](http://psrcrypto.com).
-The theme is custom, built upon [Turtle-pool](http://github.com/turtle/turtle-pool) default website theme.
+The theme is custom, built upon [Turtle-pool](http://github.com/turtlecoin/turtle-pool) default website theme.
 You can see the website working [here](http://turtle.psrcrypto.com).
 Update to theme is not often, but there may be update and fixes to the dynamic CSS side if and when issues are found.
 Sumbit issues and suggestions to Github's issue system.
