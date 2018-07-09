@@ -5,6 +5,8 @@ The theme is custom, built upon [Turtle-pool](http://github.com/turtlecoin/turtl
 You can see the website working [here](http://turtle.psrcrypto.com).
 Update to theme is not often, but there may be update and fixes to the dynamic CSS side if and when issues are found.
 Sumbit issues and suggestions to Github's issue system.
+
+Note that the admin page is not using the same font and color, this is because the admin page becomes harder to read and understand when the other font and sizing. 
 ***
 
 #### Custom UIs
